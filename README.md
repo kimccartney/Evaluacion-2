@@ -1,7 +1,6 @@
 # Evaluacion-2
 
-![IMG_6562](https://github.com/user-attachments/assets/329b6945-1586-4842-910a-b45b25fd61cf)
-
+![Proyecto Cambiar tamaño de imagen](https://github.com/user-attachments/assets/4f5ed6be-106c-49d9-b02f-9c7caefd2ce0)
 
 ![foto 12](https://github.com/user-attachments/assets/0457a841-3d30-4056-958d-a1db5010c5fb)
 ![foto 11](https://github.com/user-attachments/assets/cb5d0d6e-93fc-4ceb-905d-2c0311079a3e)
